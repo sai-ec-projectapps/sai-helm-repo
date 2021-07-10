@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  java-web-app:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-07-10T09:56:41.095757643Z"
+    description: A Helm chart for Kubernetes
+    digest: b2f3f293c071b7c8af5fa267e32dab57a8c879f64335fd377a2470850541e453
+    name: java-web-app
+    type: application
+    urls:
+    - https://sai-ec-projectapps.github.io/sai-helm-repo/java-web-app-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-07-10T09:56:41.094421929Z"
